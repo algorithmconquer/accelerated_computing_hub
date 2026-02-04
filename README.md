@@ -1,1 +1,1 @@
-# accelerated_computing_hub
+https://github.com/NVIDIA/accelerated-computing-hub/tree/main;
