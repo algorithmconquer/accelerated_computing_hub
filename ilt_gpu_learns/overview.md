@@ -17,9 +17,9 @@
 
 ## 已完成工作
 
-### 1. Day 1教程文档与项目代码 (2026-03-24)
+### 1. Day 1教程文档与项目代码
 
-#### 教程文档 (`2026_03_24.md`)
+#### 教程文档 
 创建了完整的Day 1学习教程，包含：
 - 学习目标与时间安排
 - 半导体光刻技术基础（上午）
@@ -74,7 +74,7 @@
 成功创建了每日自动生成教程的自动化任务：
 - **任务名称**: GPU ILT每日教程生成
 - **触发时间**: 每天上午10:20
-- **工作目录**: `/Users/zhuwei50/Desktop/workbuddy_claw/gpu_ilt_programming`
+- **工作目录**: 
 - **状态**: ACTIVE
 - **功能**: 
   - 根据学习进度自动生成对应天数的教程
@@ -136,7 +136,7 @@
 ## 项目文件结构
 
 ```
-/Users/zhuwei50/Desktop/workbuddy_claw/gpu_ilt_programming/
+../gpu_ilt_programming/
 ├── 2026_03_24.md              # Day 1教程文档
 ├── code_2026_03_24/           # Day 1项目代码
 │   ├── README.md
@@ -168,7 +168,7 @@
 ### 开始学习
 ```bash
 # 进入项目目录
-cd /Users/zhuwei50/Desktop/workbuddy_claw/gpu_ilt_programming
+cd /xxx/gpu_ilt_programming
 
 # 阅读Day 1教程
 open 2026_03_24.md
